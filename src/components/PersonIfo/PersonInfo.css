@@ -1,0 +1,10 @@
+.person-info{
+  background-color: rgb(196, 196, 196);
+  border-radius: 10px;
+}
+.person-info h1{
+  color: purple;
+}
+.person-info:hover{
+  background-color: beige;
+}
